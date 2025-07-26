@@ -15,9 +15,9 @@ Proyek akhir untuk menerapkan siklus EDA dari awal hingga akhir.
 
   -- 📄 Presentasi PDF: [Lihat Presentasi](./Analisis Penjualan E-commerce.pdf)
 
-  -- 💻 Notebook Analisis: [Lihat Kode](./Proyek_Analisis_Penjualan/Portofolio Day 3.ipynb)
+  -- 💻 Notebook Analisis: [Lihat Kode](Analisis Penjualan E-Commerce.ipynb)
 
-  -- 💾 Dataset: [Lihat Dataset](./Proyek_Analisis_Penjualan/online_retail_II.csv)
+  -- 💾 Dataset: [Lihat Dataset]([./Proyek_Analisis_Penjualan/online_retail_II.csv](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci))
 
 ### 2. Latihan: Dasar-Dasar Python (Sistem Penilaian Mahasiswa)
 Latihan dasar untuk mempraktikkan logika kondisional di Python.
