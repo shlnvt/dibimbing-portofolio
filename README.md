@@ -26,7 +26,7 @@ Latihan dasar untuk mempraktikkan logika kondisional di Python.
 
 - Skill & Teknologi: Python, Jupyter Notebook, Conditional Logic.
 
-- Lihat Kode: [Lihat Kode](./Latihan_Dasar_Python/template_introduction_python.ipynb)
+- Lihat Kode: [Lihat Kode](template_introduction_python.ipynb)
 
 - 🛠️ Teknologi yang Digunakan
 
