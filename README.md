@@ -13,7 +13,7 @@ Proyek akhir untuk menerapkan siklus EDA dari awal hingga akhir.
 
 - Output Proyek:
 
-  -- 📄 Presentasi PDF: [Lihat Presentasi](./Analisis Penjualan E-commerce.pdf)
+  -- 📄 Presentasi PDF: [Lihat Presentasi](https://github.com/shlnvt/dibimbing-portofolio/blob/main/Digital%20Skill%20Fair%2041.0.pdf)
 
   -- 💻 Notebook Analisis: [Lihat Kode](https://github.com/shlnvt/dibimbing-portofolio/blob/main/Analisis%20Penjualan%20E-Commerce.ipynb)
 
@@ -39,6 +39,6 @@ Latihan dasar untuk mempraktikkan logika kondisional di Python.
 ## 📬 Hubungi Saya
 Saya sangat terbuka untuk diskusi, masukan, dan peluang kolaborasi. Mari terhubung!
 
-- LinkedIn: [Link ke Profil LinkedIn Anda]
+- LinkedIn: https://www.linkedin.com/in/shlnvt
 
-- Email: [Alamat Email Anda]
+- Email: important.jobshel@gmail.com
