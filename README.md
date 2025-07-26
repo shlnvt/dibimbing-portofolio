@@ -28,13 +28,13 @@ Latihan dasar untuk mempraktikkan logika kondisional di Python.
 
 - Lihat Kode: [Lihat Kode](template_introduction_python.ipynb)
 
-- 🛠️ Teknologi yang Digunakan
+### 🛠️ Teknologi yang Digunakan
 
-  -- Bahasa Pemrograman: Python
+  - Bahasa Pemrograman: Python
 
-  -- Library Utama: Pandas, NumPy, Matplotlib, Seaborn
+  - Library Utama: Pandas, NumPy, Matplotlib, Seaborn
 
-  -- Lingkungan Kerja: Jupyter Notebook / Google Colab
+  - Lingkungan Kerja: Visual Studio Code
 
 ## 📬 Hubungi Saya
 Saya sangat terbuka untuk diskusi, masukan, dan peluang kolaborasi. Mari terhubung!
